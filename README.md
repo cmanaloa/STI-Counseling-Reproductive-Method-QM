@@ -1,5 +1,5 @@
 # STI-Counseling-Reproductive-Method-QM
-
+Health Quality Measure:
 STI Counseling / Reproductive Method
 Percentage of patients aged 13-24 years of age with a Z30 code (birth control) in the last 12 months
 
